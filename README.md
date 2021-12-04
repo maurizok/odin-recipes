@@ -1,0 +1,1 @@
+This is a repository for the partial fullfillment of my Odin project. The Skillset that's tested in this project is the usage of HTML markups in writing markup for a web page. I started this journey with odin peoject 03 December 2021.
