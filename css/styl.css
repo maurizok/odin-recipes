@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+    border: 2px solid black;
+}
+.container{
+    background-color: rgb(204, 221, 221);
+    width: 80vw;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+.recipe_content{
+    margin: 0 auto;
+    width: 50vw;
+   background-color: rgb(197, 223, 171);
+   text-align: center;
+   padding: 20px;
+}
+a{
+    text-decoration: none;
+}
